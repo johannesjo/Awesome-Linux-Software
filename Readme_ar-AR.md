@@ -1175,7 +1175,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://invent.kde.org/utilities/rsibreak) [RSIBreak](https://apps.kde.org/rsibreak/) - يعتني RSIBreak بصحتك ويأخذ فترات راحة منتظمة من عملك لتجنب الإصابات الإجهادية المتكررة.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/ransome1/sleek) [sleek](https://github.com/ransome1/sleek) - مدير مهام متعدد الأنظمة يعتمد على صيغة todo.txt.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.gnome.org/World/Solanum) [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - مؤقت بومودورو لسطح مكتب GNOME.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/johannesjo/super-productivity) [Super Productivity](https://super-productivity.com/) - قائمة المهام المرنة البسيطة المجانية / متعقب الوقت / Jira الشخصية ومدير المهام Github.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/super-productivity/super-productivity) [Super Productivity](https://super-productivity.com/) - مدير مهام مع تخصيص فترات زمنية وتتبع الوقت.
 - [Taskade](https://www.taskade.com/downloads) - أداة تنظيم وتعاون في الوقت الفعلي لإنجاز المهام. Taskade عبارة عن مساحة عمل موحدة لمهام الفريق والملاحظات، مع توفر دردشة الفيديو المتكاملة عبر الأنظمة الأساسية ومجانية الاستخدام.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/klaussinani/taskbook) [Taskbook](https://github.com/klaussinani/taskbook) - مهام ولوحات وملاحظات لموئل سطر الأوامر.
 - [![برنامج مفتوح المصدر][أيقونة oss]](https://github.com/GothenburgBitFactory/taskwarrior) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior هو برنامج مفتوح المصدر ومجاني يدير قائمة المهام الخاصة بك من سطر الأوامر.
